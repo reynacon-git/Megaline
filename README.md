@@ -1,2 +1,3 @@
 # Megaline
-analisis de una base de datos de una empresa de telecomunicaciones para obtener que plan  prepago es mas rentable. 
+
+Con el fin de optimizar la estrategia comercial, llevé a cabo un análisis detallado de los datos de consumo de los clientes de prepago. Utilicé herramientas como Python,( pandas,  numpy, scipy , matplotlib, seaborn , math)para limpiar, transformar y visualizar los datos. A través de técnicas de estadística descriptiva y análisis exploratorio, identifiqué patrones de consumo estacionales y segmenté a los usuarios según las tarifas contratadas. Los resultados obtenidos permitieron concluir que la tarifa “Surf “ era la más rentable para la empresa.Este proyecto demostró la importancia de utilizar los datos para tomar decisiones basadas en evidencia y optimizar la rentabilidad del negocio. 
